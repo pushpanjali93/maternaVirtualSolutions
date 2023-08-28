@@ -4,11 +4,11 @@ Project includes Test Cases on searching "Active Sync" in Google Search.
 How to Run:
 Run org.example.testRunner.TestRunner.java File.
 
-**Code Highlights:**
+**Code Highlights:** 
 
- **1. The Code is designed to be multi-threaded. Driver instance is per thread and hence can be run in parallel.**
+  **1. The Code is designed to be multi-threaded. Driver instance is per thread and hence can be run in parallel.**
 
- **2. Click on Search Results is configurable. "People Also Ask" Section is handled as well. The first Link in the first suggestion will be clicked.**
+  **2. Click on Search Results is configurable. "People Also Ask" Section is handled as well. The first Link in the first suggestion will be clicked.**
 
 3. Base Class includes parameter for providing Browser Name & Driver Path via Properties file.
 
