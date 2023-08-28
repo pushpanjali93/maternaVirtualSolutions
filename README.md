@@ -6,7 +6,7 @@ Run org.example.testRunner.TestRunner.java File.
 
 **Code Highlights:** 
 
-1. **The Code is designed to be multi-threaded. Driver instance is per thread and hence can be run in parallel.**
+1. **The Base Class is designed to be multi-threaded. Driver instance is per thread and hence can be run in parallel.**
 
 2. **Click on Search Results is configurable. "People Also Ask" Section is handled as well. The first Link in the first suggestion will be clicked.**
 
@@ -17,7 +17,7 @@ Run org.example.testRunner.TestRunner.java File.
 
 Code Description:
 This assignment only covers basic test cases around Google Search. It can be extended to cover more deeper scenarios. The focus
-of this assignment was only to highlt code scalability & configurability.
+of this assignment was only to highlight code scalability & configurability.
 
 Test Case 1:
 1. Set Cookies in order to avoid Privacy Popups in Chrome.
